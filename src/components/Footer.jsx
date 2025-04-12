@@ -10,7 +10,7 @@ const Footer = () => {
                     <a href="">Github</a>
                     <a href="">Youtube</a>
                     <a href="">Facebook</a>
-                </div>
+                </div> 
             </div>
         </footer>
     )
